@@ -1,0 +1,21 @@
+p {
+  text-align: center;
+}
+body {
+    background-image: url(/path/to/IMG_1137.jpg);
+  }
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+      <style>
+        body {
+           background-image: url('');
+           background-repeat: no-repeat;
+           background-attachment: fixed;
+           background-position: center;
+          </style>
+     </head>
+     <body>
+     </body>
+  </html>
